@@ -1,5 +1,5 @@
 <h1 align="center"><stroke>Sistema Acadêmico em Python</stroke></h1>
-<p>Nome: Miguel Migliorelli Bringhenti</p>
+<p>Nome: Miguel Migliorelli \nBringhenti</p>
 <p>Data de início: 19/12/2022</p>
 <p>Objetivo: Treinar minhas habilidades com Python</p>
 <br><br>
